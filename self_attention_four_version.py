@@ -83,8 +83,9 @@ class SelfAttentionV3(nn.Module):
         output = self.output_proj(attention_result)
         return output
  
+## formal version
 
- 
+
 
     
 
