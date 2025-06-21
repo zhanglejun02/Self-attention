@@ -86,7 +86,7 @@ class SelfAttentionV3(nn.Module):
 ## formal version
 
 
-
+x = torch.rand(3, 4, 2)
     
 
 
